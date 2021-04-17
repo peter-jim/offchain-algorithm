@@ -7,7 +7,7 @@ def demo():
     非小号API获取信息
     :return btc,eth,eos ... pirce
     '''
-    print("start11")
+    print("start")
     #接口教程链接 https://github.com/xiaohao2019/API-docs/blob/master/PublicApi_CN.md
     url = "https://fxhapi.feixiaohao.com/public/v1/ticker/"
     #传入参数 start=[integer](指定结果集的开始排名)    limit=[integer](指定结果集的最大数量)
